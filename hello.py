@@ -1,0 +1,2 @@
+vvs="rahul"
+print(vvs)
